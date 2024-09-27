@@ -6,7 +6,7 @@ This project involves the development of a Recurrent Neural Network (RNN) based 
 </p>
 
 ### ScreenShot
-<img width="800" height="400" align="center" src="/screenshots/screenshot 1.png">
+<img width="800" height="400" align="center" src="/screenshots/Screenshot 1.png">
 
 ### Technologies Used in This Project
 * **Python** : Core programming language used for developing the model and application.
